@@ -1,0 +1,6 @@
+streamlit
+nest_asyncio
+pandas
+huggingface_hub
+transformers
+openai
